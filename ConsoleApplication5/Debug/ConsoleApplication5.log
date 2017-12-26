@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+c:\users\monster\desktop\ders\cng 462 - ai\weatherforecast\consoleapplication5\consoleapplication5\consoleapplication5.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\monster\desktop\ders\cng 462 - ai\weatherforecast\consoleapplication5\consoleapplication5\consoleapplication5.cpp(53): warning C4244: '=': conversion from 'double' to 'fann_type', possible loss of data
+  ConsoleApplication5.vcxproj -> C:\Users\MONSTER\Desktop\DERS\CNG 462 - AI\WeatherForecast\ConsoleApplication5\Debug\ConsoleApplication5.exe
